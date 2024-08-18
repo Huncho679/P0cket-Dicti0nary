@@ -2,14 +2,17 @@
 
 ## A simple dictionary web application built using React
 
+### Desktop Light Mode
 ![Desktop Light Mode](src/images/desktop-light-mode.png)
-Desktop Light Mode
+
+### Desktop Dark Mode
 ![Desktop Dark Mode](src/images/desktop-dark-mode.png)
-Desktop Dark Mode
+
+### Phone Light Mode
 ![Phone Light Mode](src/images/phone-light-mode.png)
-Phone Light Mode
+
+### Tablet Light Mode
 ![Tablet Light Mode](src/images/tablet-light-mode.png)
-Tablet Light Mode
 
 ### Features
 
